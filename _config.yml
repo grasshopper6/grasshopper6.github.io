@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "ZHOU KAICHUN（周楷淳）"
-description              : "Associate Professor at Hunan Normal University"
+description              : "Associate Professor at the School of Geographical Sciences, Hunan Normal University"
 repository               : 
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "ZHOU KAICHUN（周楷淳）"
   avatar           : "images/zhoukaichun.jpg"
-  bio              : "zhoukaichun@hunnu.edu.cn\nHunan Normal University"
+  bio              : "zhoukaichun@hunnu.edu.cn"
   location         : "Changsha, China"
   employer         : 
   pubmed           : 
