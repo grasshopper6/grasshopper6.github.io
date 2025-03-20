@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "ZHOU KAICHUN（周楷淳）"
+description              : "Associate Professor at Hunan Normal University"
+repository               : 
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -25,12 +25,12 @@ author:
   avatar           : "images/zhoukaichun.jpg"
   bio              : "Hunan Normal University"
   location         : "Changsha, China"
-  employer         : "School of Geographical Sciences"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "zhoukaichun@hunnu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "zhoukaichun@hunnu.edu.cn"
   bitbucket        :
   codepen          :
   dribbble         :
