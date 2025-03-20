@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "ZHOU KAICHUN（周楷淳）"
-description              : "Associate Professor at the School of Geographical Sciences, Hunan Normal University"
+description              : "副教授\n地理信息科学系 国土资源利用与管理学位点\n 湖南师范大学"
 repository               : 
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "ZHOU KAICHUN（周楷淳）"
   avatar           : "images/zhoukaichun.jpg"
   bio              : "zhoukaichun@hunnu.edu.cn"
-  location         : "Changsha, China"
+  location         : "长沙, 湖南"
   employer         : 
   pubmed           : 
   googlescholar    : 
