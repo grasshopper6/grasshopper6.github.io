@@ -4,19 +4,19 @@ main:
     url: "/profile/#about-me"
 
   - title: "666"
-    url: "/profile/#-news"
+    url: "/profile/#-666"
 
   - title: "部分发表"
-    url: "/profile/#-publications"
+    url: "/profile/#-部分发表论文"
 
   - title: "指导学生获奖"
-    url: "/profile/#-honors-and-awards"
+    url: "/profile/#-指导学生获奖"
 
   - title: "教育经历"
-    url: "/profile/#-educations"
+    url: "/profile/#-教育经历"
 
   - title: "参加会议"
-    url: "/profile/#-invited-talks"
+    url: "/profile/#-invited-学术会议"
 
   - title: "组内研究生"
-    url: "/profile/#-internships"
+    url: "/profile/#-研究生"
