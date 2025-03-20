@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "关于"
-    url: "/#about-me"
+    url: "/profile/#about-me"
 
   - title: "666"
-    url: "/#-news"
+    url: "/profile/#-news"
 
   - title: "部分发表"
-    url: "/#-publications"
+    url: "/profile/#-publications"
 
   - title: "指导学生获奖"
-    url: "/#-honors-and-awards"
+    url: "/profile/#-honors-and-awards"
 
   - title: "教育经历"
-    url: "/#-educations"
+    url: "/profile/#-educations"
 
   - title: "参加会议"
-    url: "/#-invited-talks"
+    url: "/profile/#-invited-talks"
 
   - title: "组内研究生"
-    url: "/#-internships"
+    url: "/profile/#-internships"
