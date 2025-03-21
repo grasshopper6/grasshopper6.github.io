@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 指导获奖
-- *2020.11* 刘更好, 边家欣, 邢华芬, 陈科仰. 第十三届全国大学生GIS应用技能大赛, 特等奖.
+- *2024.11* 刘更好, 边家欣, 邢华芬, 陈科仰. 第十三届全国大学生GIS应用技能大赛, 特等奖.
 - *2024.11* 边家欣, 陈科仰, 邢华芬, 刘更好, 周鑫. 湖南第七届大学生测绘综合技能大赛GIS应用赛, 一等奖. 
 - *2024.09* 吴名. 2024年全国大学生测绘学科创新创业智能大赛（测绘程序设计比赛非专业组）, 二等奖.  
 - *2023.09* 李昌哲. 2023年全国大学生测绘学科创新创业智能大赛（测绘程序设计比赛非专业组）, 一等奖. 
