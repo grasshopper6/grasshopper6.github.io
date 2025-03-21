@@ -61,7 +61,7 @@ redirect_from:
 - *2006.09 - 2010.06*, 中南大学地学与环境工程学院, 地理信息系统专业. 
 
 
-# 💬 学术报告
+# 💬 学术交流
 - *2024.08*, 第六十三届欧洲区域科学协会年会, How Does the COVID-19 Pandemic Affect Employment Outcomes Differently for College Graduates with Diverse Characteristics (oral), 葡萄牙特尔塞拉. （交流学习）. 
 - *2023.10*, 第十五届中日韩地理学联合年会, Impact of Clan Culture on the Spatial Heterogeneity of Betrothal Gifts in China (oral), 韩国首尔. （交流学习）. 
 - *2019.08*, Goldschmidt2019, 西班牙巴塞罗那. （学习×2）. 
