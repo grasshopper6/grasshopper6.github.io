@@ -35,16 +35,15 @@ redirect_from:
 </div>
 
 
-<h2 id="666"></h2>
-# 🔥 666
-- 近期没有特别666🎉🎉的成果。
+<h1 id="666">🔥 666</h2>
+- 近期没有特别6666🎉🎉的成果。
 
-<h2 id="postgraduate"></h2>
+<h1 id="postgraduate"></h2>
 # 👨🏻‍🎓 研究生
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 
-<h2 id="publication"></h2>
+<h1 id="publication"></h2>
 # 📝 部分成果 
 
 
