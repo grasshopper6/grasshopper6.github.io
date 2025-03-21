@@ -38,7 +38,7 @@ redirect_from:
 </div>
 
 
-# 🔥 Wow{#wow}
+# 🔥 Wow！{#wow}
 - 近期没有特别Wow🎉🎉的成果.
 
 # 👨🏻‍🎓 研究生{#研究生}
