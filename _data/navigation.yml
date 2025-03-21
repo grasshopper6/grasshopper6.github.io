@@ -7,21 +7,21 @@ main:
     url: "#Wow"
 
   - title: "研究生"
-    url: "#研究生"
+    url: "#postgraduate"
 
 
 
   - title: "部分成果"
-    url: "#部分成果"
+    url: "#publication"
 
   - title: "指导获奖"
-    url: "#指导获奖"
+    url: "#awards"
 
   - title: "学术交流"
-    url: "#学术交流"
+    url: "#talks"
 
   - title: "教育经历"
-    url: "#教育经历"
+    url: "#education"
 
 
 
