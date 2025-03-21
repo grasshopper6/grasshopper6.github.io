@@ -1,27 +1,27 @@
 # main links links
 main:
   - title: "About"
-    url: "#about-me"
+    url: "/#about-me"
 
-    title: "Wow"
-    url: "#-Wow"
+    title: "Wow!"
+    url: "/#-Wow"
 
   - title: "研究生"
-    url: "#-研究生"
+    url: "/#-研究生"
 
 
 
   - title: "部分成果"
-    url: "#-部分成果"
+    url: "/#-部分成果"
 
   - title: "指导获奖"
-    url: "#-指导获奖"
+    url: "/#-指导获奖"
 
   - title: "学术交流"
-    url: "#-学术交流"
+    url: "/#-学术交流"
 
   - title: "教育经历"
-    url: "#-教育经历"
+    url: "/#-教育经历"
 
 
 
