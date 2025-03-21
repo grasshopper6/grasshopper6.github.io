@@ -35,7 +35,9 @@ redirect_from:
 - 数据驱动下的土地利用覆被变化
 - 面向不同人群的时空不平等研究
 </div>
+<div>
 中南大学本科、研究生最佳守门员、武汉大学研究生最佳守门员，湖南师范大学没有教工足球队。湖南师大工会羽毛球、乒乓球、篮球等比赛一轮游选手。Journal of Environment Management、Environmental and Sustainability Indicators、Applied Geography、PLOS ONE等一系列期刊审稿人。中国自然资源学会资源工程专业委员会委员、湖南省自然资源学会理事、湖南师范大学自然科学学报青年编委。项目经费充足。
+</div>
 </div>
 
 
