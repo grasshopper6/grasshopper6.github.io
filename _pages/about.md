@@ -16,6 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 👨‍🏫 简介 {#Intro}
+中南大学本科、研究生最佳守门员、武汉大学研究生最佳守门员，湖南师范大学没有教工足球队。湖南师大工会羽毛球、乒乓球、篮球等比赛一轮游选手。Journal of Environment Management、Environmental and Sustainability Indicators、Applied Geography、PLOS ONE等一系列期刊审稿人。中国自然资源学会资源工程专业委员会委员、湖南省自然资源学会理事、湖南师范大学自然科学学报青年编委。科研经费充足。
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In class</div><img src='images/in class.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -35,9 +37,7 @@ redirect_from:
 - 数据驱动下的土地利用覆被变化
 - 面向不同人群的时空不平等研究
 </div>
-<div>
-中南大学本科、研究生最佳守门员、武汉大学研究生最佳守门员，湖南师范大学没有教工足球队。湖南师大工会羽毛球、乒乓球、篮球等比赛一轮游选手。Journal of Environment Management、Environmental and Sustainability Indicators、Applied Geography、PLOS ONE等一系列期刊审稿人。中国自然资源学会资源工程专业委员会委员、湖南省自然资源学会理事、湖南师范大学自然科学学报青年编委。项目经费充足。
-</div>
+
 </div>
 
 
