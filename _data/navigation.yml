@@ -7,21 +7,21 @@ main:
     url: "/profile/#-666"
 
   - title: "研究生"
-    url: "/profile/#研究生"
+    url: "/profile/#-研究生"
 
 
 
   - title: "部分成果"
-    url: "/profile/#-publication"
+    url: "/profile/#-部分成果"
 
   - title: "指导获奖"
-    url: "/profile/#-honour"
+    url: "/profile/#-指导获奖"
 
   - title: "学术交流"
-    url: "/profile/#-meeting"
+    url: "/profile/#-学术交流"
 
   - title: "教育经历"
-    url: "/profile/#-education"
+    url: "/profile/#-教育经历"
 
 
 
