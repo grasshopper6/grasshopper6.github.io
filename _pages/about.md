@@ -38,20 +38,20 @@ redirect_from:
 </div>
 
 
-# 🔥 Wow
+# 🔥 Wow{#wow}
 - 近期没有特别Wow🎉🎉的成果.
 
-# 👨🏻‍🎓 研究生
+# 👨🏻‍🎓 研究生{#研究生}
 - *在读*
 - *已毕业*
 
 
-# 📝 部分成果 
+# 📝 部分成果{#部分成果} 
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 指导获奖
+# 🎖 指导获奖{#指导获奖} 
 - *2024.11* 刘更好, 边家欣, 邢华芬, 陈科仰. 第十三届全国大学生GIS应用技能大赛, 特等奖.
 - *2024.11* 边家欣, 陈科仰, 邢华芬, 刘更好, 周鑫. 湖南第七届大学生测绘综合技能大赛GIS应用赛, 一等奖. 
 - *2024.09* 吴名. 2024年全国大学生测绘学科创新创业智能大赛（测绘程序设计比赛非专业组）, 二等奖.  
@@ -60,13 +60,13 @@ redirect_from:
 - *2020.11* 疫苗下的“傲慢与偏见”, 2020易智瑞杯中国大学生GIS软件开发竞赛·地图故事组, 优胜奖.
 - *2019.03* 刘茹, 易嘉慧, 杨敏, 欧阳睿, 胡成凤. 湖南省村级土地利用规划编制软件, 大学生创新训练项目（省级）, 已结题. 
 
-# 💬 学术交流
+# 💬 学术交流{#学术交流} 
 - *2024.08*, 第六十三届欧洲区域科学协会年会, How Does the COVID-19 Pandemic Affect Employment Outcomes Differently for College Graduates with Diverse Characteristics (oral), 葡萄牙特尔塞拉. （交流学习）. 
 - *2023.10*, 第十五届中日韩地理学联合年会, Impact of Clan Culture on the Spatial Heterogeneity of Betrothal Gifts in China (oral), 韩国首尔. （交流学习）. 
 - *2019.08*, Goldschmidt2019, 西班牙巴塞罗那. （学习×2）. 
 - *2018.09*, 第八届亚洲区域科学会议, 韩国济州. （主要是学习） 
 
-# 📖 教育经历
+# 📖 教育经历{#教育经历} 
 - *2014.09 - 2017.12*, 武汉大学遥感信息工程学院, 地图制图学与地理信息工程专业. 
 - *2010.09 - 2013.06*, 中南大学地球科学与信息物理学院, 测绘工程专业. 
 - *2006.09 - 2010.06*, 中南大学地学与环境工程学院, 地理信息系统专业. 
