@@ -17,8 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In class</div><img src='images/in class.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">In class</div>
+      <img src='images/in class.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 
 **讲授课程**
@@ -34,7 +40,10 @@ redirect_from:
 
 - 数据驱动下的土地利用覆被变化
 - 面向不同人群的时空不平等研究
-</div>
+  </div>
+  <div>
+  简介测试
+  </div>
 </div>
 
 
