@@ -23,6 +23,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 # 🔥 666
 近期没有特别666🎉🎉的成果。
 
+# 💻 研究生
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # 📝 部分发表 
 
@@ -55,9 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 - *2006.09 - 2010.06*, 中南大学地学与环境工程学院, 地理信息系统专业. 
 
 
-# 💬 学术会议
+# 💬 学术报告
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 研究生
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
