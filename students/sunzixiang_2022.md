@@ -19,8 +19,8 @@ bio: "孙字祥，男，甘肃省永昌县人。湖南师范大学地理科学�
 - 篮球
 
 # 📝 发表成果 {#publication} 
-- Zhou K, Sun Z, Ma T, et al. [Spatiotemporal Heterogeneity and Zoning Strategies of Multifunctional Trade-Offs and Synergies in Cultivated Land in the Hexi Corridor[J]](https://www.mdpi.com/2073-445X/14/2/335). Land, 2025, 14(2): 335.
-- 孙字祥,胡涛,李超民,杨凤玲,周楷淳*.湘江流域农村居民点时空演变特征及影响因素研究[J].水土保持研究,2024,31(06):344-353.DOI:10.13869/j.cnki.rswc.2024.06.043.
+- Zhou K, **Sun Z**, Ma T, et al. [Spatiotemporal Heterogeneity and Zoning Strategies of Multifunctional Trade-Offs and Synergies in Cultivated Land in the Hexi Corridor[J]](https://www.mdpi.com/2073-445X/14/2/335). Land, 2025, 14(2): 335.
+- **孙字祥**,胡涛,李超民,杨凤玲,周楷淳*.湘江流域农村居民点时空演变特征及影响因素研究[J].水土保持研究,2024,31(06):344-353.DOI:10.13869/j.cnki.rswc.2024.06.043.
 
 
 # 💬 学术交流 {#talks} 
