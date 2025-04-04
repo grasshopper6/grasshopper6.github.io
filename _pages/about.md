@@ -6,7 +6,61 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+carousels:
+  - images: 
+    - image: /sliders/202405_geoForum.jpg
+      title: "青年地学论坛_2024"
+    - image: /sliders/202503_inClass.jpg
+      title: "InClass"
+    - image: /sliders/202408_63thERSA.jpg
+      title: "63thERSA"
+    - image: /sliders/202409_spatialPlanning.jpg
+      title: "Working Hard"
+    - image: /sliders/202410_Daily.jpg
+      title: "Daily"
+    - image: /sliders/202401_Winter.jpg
+      title: "Winter"
 ---
+
+<style>
+.main-content {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.sliderBar {
+  flex: 4;
+
+  border-radius: 8px;
+
+}
+
+.sliderText {
+  flex: 5;
+  background-color: #fff;
+  border-radius: 8px;
+  padding-top:1rem;
+}
+
+.carousel__holder {
+  width: 100%;
+  height: 90%;
+}
+
+@media (max-width:768px){
+  .main-content{
+    flex-direction:column;
+  }
+  .sliderBar{
+    max-width:100%;
+    order:0;
+  }
+  .sliderText{
+    order:1;
+  }
+}
+</style>
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -18,6 +72,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 👨‍🏫 简介 {#Intro}
 中南大学本科、研究生最佳守门员、武汉大学研究生最佳守门员，湖南师范大学没有教工足球队。湖南师大工会羽毛球、乒乓球、篮球等比赛一轮游选手。Journal of Environment Management、Environmental and Sustainability Indicators、Applied Geography、PLOS ONE等一系列期刊审稿人。中国自然资源学会资源工程专业委员会委员、湖南省自然资源学会理事、湖南师范大学自然科学学报青年编委。科研经费充足。
+
+<!-- 
+{% include carousel.html height="50" unit="%" duration="5" number="1" %}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In class</div><img src='images/in class.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,15 +97,39 @@ redirect_from:
 
 </div>
 
+-->
 
+<div class="main-content">
+  <div class="sliderBar">
+    {% include carousel.html height="50" unit="%" duration="5" number="1" %}
+  </div>
+  <div class='sliderText' markdown="1">
+
+
+**讲授课程**
+
+- Python与空间信息处理（本科课程，地理信息科学）
+- 高等数学（本科课程，人文地理与城乡规划）
+- 概率论与数理统计（本科课程，人文地理与城乡规划、地理科学）
+- 土地数据分析与建模（本科课程，土地资源管理）
+- 现代应用数学方法（硕士课程，国土资源利用与管理）
+- 国土资源管理空间信息分析技术（硕士课程，国土资源利用与管理）
+- 大数据与国土资源信息管理（硕士课程，MPA）
+
+**研究方向**
+
+- 数据驱动下的土地利用覆被变化
+- 面向不同人群的时空不平等研究
+</div>
+</div>
 
 
 # 🔥 Wow！ {#Wow}
 - 近期没有特别Wow🎉🎉的成果.
 
 # 👨🏻‍🎓 研究生 {#postgraduate}
-- *在读* [孙字祥]() [李超民]() [李煜林]() [师梦冉]() [杨凤玲]() [张凯琳]() 
-- *已毕业* [李新智]() [傅安洲]() [周雅茜]() [刘嵋]()
+- *在读* [孙字祥](/students/sunzixiang_2022/) [李超民]() [李煜林]() [师梦冉]() [杨凤玲]() [张凯林]() 
+- *已毕业* 李新智 傅安洲 周雅茜 刘嵋
 
 
 # 📝 部分成果 {#publication} 
