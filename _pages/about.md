@@ -73,6 +73,9 @@ carousels:
 # 👨‍🏫 简介 {#Intro}
 中南大学本科、研究生最佳守门员、武汉大学研究生最佳守门员，湖南师范大学没有教工足球队。湖南师大工会羽毛球、乒乓球、篮球等比赛一轮游选手。Journal of Environment Management、Environmental and Sustainability Indicators、Applied Geography、PLOS ONE等一系列期刊审稿人。中国自然资源学会资源工程专业委员会委员、湖南省自然资源学会理事、湖南师范大学自然科学学报青年编委。科研经费充足。
 
+
+
+
 <!-- 
 {% include carousel.html height="50" unit="%" duration="5" number="1" %}
 
@@ -129,7 +132,8 @@ carousels:
 
 # 👨🏻‍🎓 研究生 {#postgraduate}
 - *在读* [孙字祥](/students/sunzixiang_2022/) [李超民]() [李煜林]() [师梦冉]() [杨凤玲]() [张凯林]() 
-- *已毕业* 李新智 傅安洲 周雅茜 刘嵋
+- *已毕业* 李新智 傅安洲 周雅茜 刘嵋 
+
 
 
 # 📝 部分成果 {#publication} 
@@ -164,3 +168,5 @@ carousels:
 - *2010.09 - 2013.06*, 中南大学地球科学与信息物理学院, 测绘工程专业. 
 - *2006.09 - 2010.06*, 中南大学地学与环境工程学院, 地理信息系统专业. 
 
+<script defer src="https://cn.vercount.one/js"></script>
+{% include text-expand.html %}
