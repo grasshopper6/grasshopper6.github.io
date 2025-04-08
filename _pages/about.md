@@ -169,4 +169,14 @@ carousels:
 - *2006.09 - 2010.06*, 中南大学地学与环境工程学院, 地理信息系统专业. 
 
 <script defer src="https://cn.vercount.one/js"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?b6170bbfcc07f16ceee0aaac69f3c970";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
 {% include text-expand.html %}
