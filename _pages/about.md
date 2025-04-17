@@ -8,18 +8,11 @@ redirect_from:
   - /about.html
 carousels:
   - images: 
-    - image: /sliders/202405_geoForum.jpg
-      title: "青年地学论坛_2024"
-    - image: /sliders/202503_inClass.jpg
-      title: "InClass"
-    - image: /sliders/202408_63thERSA.jpg
-      title: "63thERSA"
-    - image: /sliders/202409_spatialPlanning.jpg
-      title: "Working Hard"
-    - image: /sliders/202410_Daily.jpg
-      title: "Daily"
-    - image: /sliders/202401_Winter.jpg
-      title: "Winter"
+    - image: /sliders/slider1.jpg
+      title: "2024"
+    - image: /sliders/slider2.jpg
+      title: "2024"
+
 ---
 
 <style>
