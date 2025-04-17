@@ -113,17 +113,17 @@ carousels:
 # 📝 主要成果 {#publication} 
 
 - Yang, M., **Zhou, M.**\*, He, X.\*, et al. (2025). Incremental spatiotemporal flow colocation quotient: a new spatiotemporal association analysis method for geographical flows. *International Journal of Geographical Information Science*.
-- 符青扬, **周梦杰***, 李伊戈, 陈伟涛(2025). 面向聚合型地理流的双变量时空关联分析方法. *测绘学报*, 54(3): 552-562.
-- He, Z., Gu, Y., ... **Zhou, M.***.(2025).Analyzing the Joint Influence of Urban Facilities and Street Perception Characteristics on Street Robbery. *Journal of Geovisualization and Spatial Analysis*,9(1), article number 23.
--  **Zhou, M.***, Yang M., Ai, T., et al. (2024). Rethinking the null hypothesis in significant colocation pattern mining of spatial flows. *Journal of Geographical Systems*, 26:375-405.
-- Fu, Q.,  **Zhou, M.***, Li, Y., et al. (2024). Flow Spatiotemporal Moran’I: Measuring Spatiaotemporal Autocorrelation of Flow Data. *Geographical Analysis*.
+- 符青扬, **周梦杰**\*, 李伊戈, 陈伟涛(2025). 面向聚合型地理流的双变量时空关联分析方法. *测绘学报*, 54(3): 552-562.
+- He, Z., Gu, Y., ... **Zhou, M.**\*.(2025).Analyzing the Joint Influence of Urban Facilities and Street Perception Characteristics on Street Robbery. *Journal of Geovisualization and Spatial Analysis*,9(1), article number 23.
+-  **Zhou, M.**\*, Yang M., Ai, T., et al. (2024). Rethinking the null hypothesis in significant colocation pattern mining of spatial flows. *Journal of Geographical Systems*, 26:375-405.
+- Fu, Q.,  **Zhou, M.**\*, Li, Y., et al. (2024). Flow Spatiotemporal Moran’I: Measuring Spatiaotemporal Autocorrelation of Flow Data. *Geographical Analysis*.
 - **周梦杰**, 阳孟杰*, 陈慧颖, 等. (2024). 面向地理流的时空交叉K函数方法. *测绘学报*, 53(8): 1644-1655.
-- 王钰辉, 阳孟杰,**周梦杰***,等. (2024). 面向地理流的双变量时空扫描统计方法.* 测绘科学*, 49(1):204-215．
+- 王钰辉, 阳孟杰,**周梦杰**\*,等. (2024). 面向地理流的双变量时空扫描统计方法.* 测绘科学*, 49(1):204-215．
 -  **Zhou, M.**\*, Yang, M.\*, Chen, Z. (2023). Flow colocation quotient: Measuring bivariate spatial association for flow data.* Computers, Environment and Urban Systems*. 99, 101916.
 -  **Zhou, M.**, Fu, Q., Li, Y., et al. (2023). Discovering spatiotemporal flow patterns: where the origin–destination map meets empirical orthogonal function decomposition, *Cartography and Geographic Information Science*, 50(2), 113-129.
-- Wu, C.,  **Zhou, M.***, Liu, P., & Yang, M. (2021). Analyzing COVID-19 using multisource data: An integrated approach of visualization, spatial regression, and machine learning. *GeoHealth*, 5, e2021GH000439.
-- Yang, M., Chen, Z.,  **Zhou, M.***, Liang, X., Bai, Z. (2021). The Impact of COVID-19 on Crime: A Spatial Temporal Analysis in Chicago. *ISPRS Int. J. Geo-Inf*. 10, 152.
-- Yu, Q., Gu, Y., Yang, S.  **Zhou, M.***. (2021). Discovering Spatiotemporal Patterns and Urban Facilities Determinants of Cycling Activities in Beijing. *Journal of Geovisualization and Spatial Analysis*, 5, 16.
+- Wu, C.,  **Zhou, M.**\*, Liu, P., & Yang, M. (2021). Analyzing COVID-19 using multisource data: An integrated approach of visualization, spatial regression, and machine learning. *GeoHealth*, 5, e2021GH000439.
+- Yang, M., Chen, Z.,  **Zhou, M.**\*, Liang, X., Bai, Z. (2021). The Impact of COVID-19 on Crime: A Spatial Temporal Analysis in Chicago. *ISPRS Int. J. Geo-Inf*. 10, 152.
+- Yu, Q., Gu, Y., Yang, S.  **Zhou, M.**\*. (2021). Discovering Spatiotemporal Patterns and Urban Facilities Determinants of Cycling Activities in Beijing. *Journal of Geovisualization and Spatial Analysis*, 5, 16.
 -  **Zhou, M.**, Ai, T.*, Wu, C., et al. (2019). A visualization approach for discovering colocation patterns. *International Journal of Geographical Information Science*, 33(3), 567-592. 
 - Ai, T.,  **Zhou, M.**, Tian, J., & Ye, N. (2016). Origin-destination (OD) of the interprovincial floating population of China. *Journal of Maps*, 12: 577-583. 
 -  **Zhou, M.**, Hu, W. & Ai, T. (2020). Multi-level thematic map visualization using the Treemap hierarchical representation model. *Journal of Geovisualization and Spatial Analysis*, 4, 12. 
