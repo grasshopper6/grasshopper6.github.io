@@ -10,8 +10,7 @@ carousels:
   - images: 
     - image: /sliders/slider1.jpg
       title: "2024"
-    - image: /sliders/slider2.jpg
-      title: "2024"
+
 
 ---
 
@@ -115,7 +114,7 @@ carousels:
 
 # 📝 主要成果 {#publication} 
 
-- Yang, M., Zhou, M.*, He, X.*, et al. (2025). Incremental spatiotemporal flow colocation quotient: a new spatiotemporal association analysis method for geographical flows, International Journal of Geographical Information Science.
+- Yang, M., Zhou, M.\*, He, X.\*, et al. (2025). Incremental spatiotemporal flow colocation quotient: a new spatiotemporal association analysis method for geographical flows, International Journal of Geographical Information Science.
 - 符青扬, 周梦杰*, 李伊戈, 陈伟涛(2025). 面向聚合型地理流的双变量时空关联分析方法, 测绘学报, 54(3): 552-562.
 - Zhou, M.*, Yang M., Ai, T., et al. (2024). Rethinking the null hypothesis in significant colocation pattern mining of spatial flows. Journal of Geographical Systems, 26:375-405.
 - Fu, Q., Zhou, M.*, Li, Y., et al. (2024). Flow Spatiotemporal Moran’I: Measuring Spatiaotemporal Autocorrelation of Flow Data. Geographical Analysis.
