@@ -66,8 +66,6 @@ carousels:
 周梦杰，博士，副教授，硕士研究生导师，“世承人才计划”青年优秀人才，湖南省测绘地理信息学会地图专委会委员。主要研究方向为时空数据挖掘和地理信息可视化。近年来在以一作或通讯在 IJGIS、CEUS、CAGIS、GA、测绘学报等国内外知名期刊发表论文20余篇。主持国家自然科学基金、湖南省自然科学基金项目等多项课题，曾获国家测绘地理信息局测绘科技进步二等奖、湖南师范大学青年教师课堂教学竞赛二等奖、十佳教学设计等多项荣誉。
 
 
-
-
 <!-- 
 {% include carousel.html height="50" unit="%" duration="5" number="1" %}
 
@@ -114,25 +112,25 @@ carousels:
 
 # 📝 主要成果 {#publication} 
 
-- Yang, M., Zhou, M.\*, He, X.\*, et al. (2025). Incremental spatiotemporal flow colocation quotient: a new spatiotemporal association analysis method for geographical flows, International Journal of Geographical Information Science.
-- 符青扬, 周梦杰*, 李伊戈, 陈伟涛(2025). 面向聚合型地理流的双变量时空关联分析方法, 测绘学报, 54(3): 552-562.
-- Zhou, M.*, Yang M., Ai, T., et al. (2024). Rethinking the null hypothesis in significant colocation pattern mining of spatial flows. Journal of Geographical Systems, 26:375-405.
-- Fu, Q., Zhou, M.*, Li, Y., et al. (2024). Flow Spatiotemporal Moran’I: Measuring Spatiaotemporal Autocorrelation of Flow Data. Geographical Analysis.
-- 周梦杰, 阳孟杰*, 陈慧颖, 等. (2024). 面向地理流的时空交叉K函数方法. 测绘学报, 53(8): 1644-1655.
-- 王钰辉, 阳孟杰, 周梦杰*,等. (2024). 面向地理流的双变量时空扫描统计方法. 测绘科学, 49(1):204-215．
-- Zhou M.\*, Yang M.\*, Chen Z. (2023). Flow colocation quotient: Measuring bivariate spatial association for flow data. Computers, Environment and Urban Systems. 99, 101916.
-- Zhou, M., Fu, Q., Li, Y., et al. (2023). Discovering spatiotemporal flow patterns: where the origin–destination map meets empirical orthogonal function decomposition, Cartography and Geographic Information Science, 50(2), 113-129.
-- Wu, C., Zhou, M.*, Liu, P., & Yang, M. (2021). Analyzing COVID-19 using multisource data: An integrated approach of visualization, spatial regression, and machine learning. GeoHealth, 5, e2021GH000439.
-- Yang, M.; Chen, Z.; Zhou, M.*; Liang, X.; Bai, Z. (2021). The Impact of COVID-19 on Crime: A Spatial Temporal Analysis in Chicago. ISPRS Int. J. Geo-Inf. 10, 152.
-- Yu, Q., Gu, Y., Yang, S. Zhou, M.*. (2021). Discovering Spatiotemporal Patterns and Urban Facilities Determinants of Cycling Activities in Beijing. Journal of Geovisualization and Spatial Analysis, 5, 16.
-- Zhou, M., Ai, T.*, Wu, C., et al. (2019). A visualization approach for discovering colocation patterns. International Journal of Geographical Information Science, 33(3), 567-592. 
-- Ai, T., Zhou, M., Tian, J., & Ye, N. (2016). Origin-destination (OD) of the interprovincial floating population of China. Journal of Maps, 12: 577-583. 
-- Zhou, M., Hu, W. & Ai, T. (2020). Multi-level thematic map visualization using the Treemap hierarchical representation model. Journal of Geovisualization and Spatial Analysis, 4, 12. 
-- Zhou, M.，Cheng, Y., Ye, N., & Tian, J. (2017). Effectiveness and Efficiency of Using Different Types of Rectangular Treemap as Diagrams in Cartography. In Advances in Cartography and GIScience. Springer. 
-- 艾廷华, 周梦杰 & 李晓明. (2017). 网络空间同位模式的加色混合可视化挖掘方法. 测绘学报, 46(6): 753-759. 
-- Zhou, M., Tian, J., Xiong, F., & Wang, R. (2017). Point grid map: a new type of thematic map for statistical data associated with geographic points. Cartography and Geographic Information Science, 44(5): 374-389. 
-- Zhou, M., Wang, R., Mai, S., & Tian, J. (2016). Spatial and temporal patterns of air quality in the three economic zones of China. Journal of Maps, 12: 156-162.
-- 艾廷华, 周梦杰 & 陈亚婕. (2014). 专题地图属性信息的 LOD 表达与 TreeMap 可视化. 测绘学报, 42(3): 453-460. 	
+- Yang, M., Zhou, M.\*, He, X.\*, et al. (2025). Incremental spatiotemporal flow colocation quotient: a new spatiotemporal association analysis method for geographical flows. *International Journal of Geographical Information Science*.
+- 符青扬, 周梦杰*, 李伊戈, 陈伟涛(2025). 面向聚合型地理流的双变量时空关联分析方法. *测绘学报*, 54(3): 552-562.
+- Zhou, M.*, Yang M., Ai, T., et al. (2024). Rethinking the null hypothesis in significant colocation pattern mining of spatial flows. *Journal of Geographical Systems*, 26:375-405.
+- Fu, Q., Zhou, M.*, Li, Y., et al. (2024). Flow Spatiotemporal Moran’I: Measuring Spatiaotemporal Autocorrelation of Flow Data. *Geographical Analysis*.
+- 周梦杰, 阳孟杰*, 陈慧颖, 等. (2024). 面向地理流的时空交叉K函数方法. *测绘学报*, 53(8): 1644-1655.
+- 王钰辉, 阳孟杰, 周梦杰*,等. (2024). 面向地理流的双变量时空扫描统计方法.* 测绘科学*, 49(1):204-215．
+- Zhou M.\*, Yang M.\*, Chen Z. (2023). Flow colocation quotient: Measuring bivariate spatial association for flow data.* Computers, Environment and Urban Systems*. 99, 101916.
+- Zhou, M., Fu, Q., Li, Y., et al. (2023). Discovering spatiotemporal flow patterns: where the origin–destination map meets empirical orthogonal function decomposition, *Cartography and Geographic Information Science*, 50(2), 113-129.
+- Wu, C., Zhou, M.*, Liu, P., & Yang, M. (2021). Analyzing COVID-19 using multisource data: An integrated approach of visualization, spatial regression, and machine learning. *GeoHealth*, 5, e2021GH000439.
+- Yang, M.; Chen, Z.; Zhou, M.*; Liang, X.; Bai, Z. (2021). The Impact of COVID-19 on Crime: A Spatial Temporal Analysis in Chicago. *ISPRS Int. J. Geo-Inf*. 10, 152.
+- Yu, Q., Gu, Y., Yang, S. Zhou, M.*. (2021). Discovering Spatiotemporal Patterns and Urban Facilities Determinants of Cycling Activities in Beijing. *Journal of Geovisualization and Spatial Analysis*, 5, 16.
+- Zhou, M., Ai, T.*, Wu, C., et al. (2019). A visualization approach for discovering colocation patterns. *International Journal of Geographical Information Science*, 33(3), 567-592. 
+- Ai, T., Zhou, M., Tian, J., & Ye, N. (2016). Origin-destination (OD) of the interprovincial floating population of China. *Journal of Maps*, 12: 577-583. 
+- Zhou, M., Hu, W. & Ai, T. (2020). Multi-level thematic map visualization using the Treemap hierarchical representation model. *Journal of Geovisualization and Spatial Analysis*, 4, 12. 
+- Zhou, M.，Cheng, Y., Ye, N., & Tian, J. (2017). Effectiveness and Efficiency of Using Different Types of Rectangular Treemap as Diagrams in Cartography. In *Advances in Cartography and GIScience*. Springer. 
+- 艾廷华, 周梦杰 & 李晓明. (2017). 网络空间同位模式的加色混合可视化挖掘方法. *测绘学报*, 46(6): 753-759. 
+- Zhou, M., Tian, J., Xiong, F., & Wang, R. (2017). Point grid map: a new type of thematic map for statistical data associated with geographic points. *Cartography and Geographic Information Science*, 44(5): 374-389. 
+- Zhou, M., Wang, R., Mai, S., & Tian, J. (2016). Spatial and temporal patterns of air quality in the three economic zones of China. *Journal of Maps*, 12: 156-162.
+- 艾廷华, 周梦杰 & 陈亚婕. (2014). 专题地图属性信息的 LOD 表达与 TreeMap 可视化. *测绘学报*, 42(3): 453-460. 	
 
 # 🔥 承担课题与项目 {#project}
 - 国家自然科学基金青年科学基金项目，“色彩混合原理支持下的空间同位模式可视化挖掘”，2020-2022，主持
