@@ -71,7 +71,7 @@ carousels:
 
 <span class='anchor' id='about-me'></span>
 # 👨‍🏫 简介 {#Intro}
-中南大学本科、研究生最佳守门员、武汉大学研究生最佳守门员，湖南师范大学没有教工足球队。湖南师大工会羽毛球、乒乓球、篮球等比赛一轮游选手。Journal of Environment Management、Environmental and Sustainability Indicators、Applied Geography、PLOS ONE等一系列期刊审稿人。中国自然资源学会资源工程专业委员会委员、湖南省自然资源学会理事、湖南师范大学自然科学学报青年编委。科研经费充足。
+周梦杰，博士，副教授，硕士研究生导师，“世承人才计划”青年优秀人才，湖南省测绘地理信息学会地图专委会委员。主要研究方向为时空数据挖掘和地理信息可视化。近年来在以一作或通讯在 IJGIS、CEUS、CAGIS、GA、测绘学报等国内外知名期刊发表论文20余篇。主持国家自然科学基金、湖南省自然科学基金项目等多项课题，曾获国家测绘地理信息局测绘科技进步二等奖、湖南师范大学青年教师课堂教学竞赛二等奖、十佳教学设计等多项荣誉。
 
 
 
@@ -83,19 +83,6 @@ carousels:
 <div class='paper-box-text' markdown="1">
 
 
-**讲授课程**
-
-- Python与空间信息处理（本科课程，地理信息科学）
-- 高等数学（本科课程，人文地理与城乡规划）
-- 概率论与数理统计（本科课程，人文地理与城乡规划、地理科学）
-- 土地数据分析与建模（本科课程，土地资源管理）
-- 大数据与国土资源信息管理（硕士课程，国土资源利用与管理）
-- 现代应用数学方法（硕士课程，国土资源利用与管理和MPA）
-
-**研究方向**
-
-- 数据驱动下的土地利用覆被变化
-- 面向不同人群的时空不平等研究
 </div>
 
 </div>
@@ -111,72 +98,72 @@ carousels:
 
 **讲授课程**
 
-- Python与空间信息处理（本科课程，地理信息科学）
-- 高等数学（本科课程，人文地理与城乡规划）
-- 概率论与数理统计（本科课程，人文地理与城乡规划、地理科学）
-- 土地数据分析与建模（本科课程，土地资源管理）
-- 现代应用数学方法（硕士课程，国土资源利用与管理）
-- 国土资源管理空间信息分析技术（硕士课程，国土资源利用与管理）
-- 大数据与国土资源信息管理（硕士课程，MPA）
+- 地图学（本科生课程）
+- MATLAB和R应用与开发（本科生课程）
+- 地图设计与制作（本科生课程）
+- 地图表达与地图分析（硕士研究生课程）
+- 地图学与GIS研究新进展（博士研究生课程）
+
 
 **研究方向**
 
-- 数据驱动下的土地利用覆被变化
-- 面向不同人群的时空不平等研究
+- 时空数据挖掘与可视化
+
 </div>
 </div>
 
 
-# 🔥 Wow！ {#Wow}
-- 近期没有特别Wow🎉🎉的成果.
+
 
 # 👨🏻‍🎓 研究生 {#postgraduate}
-- *在读* [孙字祥](/students/sunzixiang_2022/) [李超民]() [李煜林]() [师梦冉]() [杨凤玲]() [张凯林]() 
-- *已毕业* 李新智 傅安洲 周雅茜 刘嵋 
+- 在读： 王钰辉 陈慧颖 李伊戈 刘莎莎 
+- 已毕业： [阳孟杰]() [符青扬]() 
 
 
+# 📝 主要成果 {#publication} 
 
-# 📝 部分成果 {#publication} 
+- Yang, M., Zhou, M.*, He, X.*, et al. (2025). Incremental spatiotemporal flow colocation quotient: a new spatiotemporal association analysis method for geographical flows, International Journal of Geographical Information Science.
+- 符青扬, 周梦杰*, 李伊戈, 陈伟涛(2025). 面向聚合型地理流的双变量时空关联分析方法, 测绘学报, 54(3): 552-562.
+- Zhou, M.*, Yang M., Ai, T., et al. (2024). Rethinking the null hypothesis in significant colocation pattern mining of spatial flows. Journal of Geographical Systems, 26:375-405.
+- Fu, Q., Zhou, M.*, Li, Y., et al. (2024). Flow Spatiotemporal Moran’I: Measuring Spatiaotemporal Autocorrelation of Flow Data. Geographical Analysis.
+- 周梦杰, 阳孟杰*, 陈慧颖, 等. (2024). 面向地理流的时空交叉K函数方法. 测绘学报, 53(8): 1644-1655.
+-王钰辉, 阳孟杰, 周梦杰*,等. (2024). 面向地理流的双变量时空扫描统计方法. 测绘科学, 49(1):204-215．
+- Zhou M.*, Yang M.*, Chen Z. (2023). Flow colocation quotient: Measuring bivariate spatial association for flow data. Computers, Environment and Urban Systems. 99, 101916.
+- Zhou, M., Fu, Q., Li, Y., et al. (2023). Discovering spatiotemporal flow patterns: where the origin–destination map meets empirical orthogonal function decomposition, Cartography and Geographic Information Science, 50(2), 113-129.
+- Wu, C., Zhou, M.*, Liu, P., & Yang, M. (2021). Analyzing COVID-19 using multisource data: An integrated approach of visualization, spatial regression, and machine learning. GeoHealth, 5, e2021GH000439.
+- Yang, M.; Chen, Z.; Zhou, M.*; Liang, X.; Bai, Z. (2021). The Impact of COVID-19 on Crime: A Spatial Temporal Analysis in Chicago. ISPRS Int. J. Geo-Inf. 10, 152.
+- Yu, Q., Gu, Y., Yang, S. Zhou, M.*. (2021). Discovering Spatiotemporal Patterns and Urban Facilities Determinants of Cycling Activities in Beijing. Journal of Geovisualization and Spatial Analysis, 5, 16.
+- Zhou, M., Ai, T.*, Wu, C., et al. (2019). A visualization approach for discovering colocation patterns. International Journal of Geographical Information Science, 33(3), 567-592. 
+- Ai, T., Zhou, M., Tian, J., & Ye, N. (2016). Origin-destination (OD) of the interprovincial floating population of China. Journal of Maps, 12: 577-583. 
+- Zhou, M., Hu, W. & Ai, T. (2020). Multi-level thematic map visualization using the Treemap hierarchical representation model. Journal of Geovisualization and Spatial Analysis, 4, 12. 
+- Zhou, M.，Cheng, Y., Ye, N., & Tian, J. (2017). Effectiveness and Efficiency of Using Different Types of Rectangular Treemap as Diagrams in Cartography. In Advances in Cartography and GIScience. Springer. 
+-艾廷华, 周梦杰 & 李晓明. (2017). 网络空间同位模式的加色混合可视化挖掘方法. 测绘学报, 46(6): 753-759. 
+- Zhou, M., Tian, J., Xiong, F., & Wang, R. (2017). Point grid map: a new type of thematic map for statistical data associated with geographic points. Cartography and Geographic Information Science, 44(5): 374-389. 
+- Zhou, M., Wang, R., Mai, S., & Tian, J. (2016). Spatial and temporal patterns of air quality in the three economic zones of China. Journal of Maps, 12: 156-162.
+-艾廷华, 周梦杰 & 陈亚婕. (2014). 专题地图属性信息的 LOD 表达与 TreeMap 可视化. 测绘学报, 42(3): 453-460. 	
 
+# 🔥 承担课题与项目 {#Wow}
+- 国家自然科学基金青年科学基金项目，“色彩混合原理支持下的空间同位模式可视化挖掘”，2020-2022，主持
+- 湖南省自然科学基金青年科学基金项目，“地理流的时空加权同位系数方法研究”，2023-2025，主持
+- 湖南省教育厅优秀青年项目，“面向聚合型地理流的时空Moran's I方法研究”，2024-2026，主持
+- 湖南省教育厅科学研究项目，一般项目，“街道网络空间局部同位模式可视化挖掘方法研究”，2019-2021，主持
+- 数字制图与国土信息应用工程自然资源部重点实验室开放研究基金项目， 2019-2020，“街道网络视角下犯罪与城市设施空间关联的可视化挖掘”，主持
+- 国家自然科学基金重点项目，“网络众源地理信息在线式尺度变换原理与方法”，2016---2020，参与
+- 国家科技基础性工作专项，“新世纪版《中华人民共和国国家大地图集》编研”，2013-2018，参与
 
-- Zhou K, Sun Z, Ma T, et al. [Spatiotemporal Heterogeneity and Zoning Strategies of Multifunctional Trade-Offs and Synergies in Cultivated Land in the Hexi Corridor[J]](https://www.mdpi.com/2073-445X/14/2/335). Land, 2025, 14(2): 335.
-- 孙字祥,胡涛,李超民,杨凤玲,周楷淳*.湘江流域农村居民点时空演变特征及影响因素研究[J].水土保持研究,2024,31(06):344-353.DOI:10.13869/j.cnki.rswc.2024.06.043.
-- 杨妍,于成,傅安洲,孙字祥,周楷淳*.城市三维形态空间分异格局对大气污染时空分布响应研究——以长沙市为例[J].湖南师范大学自然科学学报,2024,47(02):12-21.
-- Zhou K, Fu A, Xiao C, et al. [Understanding Idle Land Using Local Environmental Characteristics: A Case Study of Liuyang, China[J]](https://www.mdpi.com/2071-1050/15/8/6663). Sustainability, 2023, 15(8): 6663.
-- Li J, Xie B, Gao C, Zhou K, et al. [Impacts of natural and human factors on water-related ecosystem services in the Dongting Lake Basin[J](https://www.sciencedirect.com/science/article/abs/pii/S0959652622029833). Journal of Cleaner Production, 2022, 370: 133400.
-- Li J, Zhou K, Xie B, et al. [Impact of landscape pattern change on water-related ecosystem services: Comprehensive analysis based on heterogeneity perspective[J]](https://www.sciencedirect.com/science/article/pii/S1470160X21010372). Ecological Indicators, 2021, 133: 108372.
-- 李晓青,徐修桥,谢炳庚,刘茹,周楷淳*.喀斯特地区农村居民点对石漠化演变的影响[J].经济地理,2020,40(10):154-163.DOI:10.15957/j.cnki.jjdl.2020.10.018.
-- Zhou K, Hu C, Zhang H, et al. [Why do we hardly see people with visual impairments in the street? A case study of Changsha, China[J]](https://www.sciencedirect.com/science/article/pii/S0143622818311172). Applied geography, 2019, 110: 102043.
 
 # 🎖 指导获奖 {#awards} 
-- *2024.11* 刘更好, 边家欣, 邢华芬, 陈科仰. 第十三届全国大学生GIS应用技能大赛, 特等奖.
-- *2024.11* 边家欣, 陈科仰, 邢华芬, 刘更好, 周鑫. 湖南第七届大学生测绘综合技能大赛GIS应用赛, 一等奖. 
-- *2024.09* 吴名. 2024年全国大学生测绘学科创新创业智能大赛（测绘程序设计比赛非专业组）, 二等奖.  
-- *2023.09* 李昌哲. 2023年全国大学生测绘学科创新创业智能大赛（测绘程序设计比赛非专业组）, 一等奖. 
-- *2022.07* 孙铭悦, 陈铭臻. 2022年全国大学生测绘学科创新创业智能大赛（测绘程序设计比赛非专业组）, 二等奖. 
-- *2020.11* 疫苗下的“傲慢与偏见”, 2020易智瑞杯中国大学生GIS软件开发竞赛·地图故事组, 优胜奖.
-- *2019.03* 刘茹, 易嘉慧, 杨敏, 欧阳睿, 胡成凤. 湖南省村级土地利用规划编制软件, 大学生创新训练项目（省级）, 已结题. 
+- 程雪萍等，《中国2010年人口系列地图》“SuperMap杯第十六届全国高校GIS大赛”制图组,一等奖.
+- 于沁玥等 “共享单车骑行模式的时空特征分析”大学生创新训练项目（省级）, 已结题.
+- 陈哲，优秀本科毕业论文.
 
-# 💬 学术交流 {#talks} 
-- *2024.08*, 第六十三届欧洲区域科学协会年会, How Does the COVID-19 Pandemic Affect Employment Outcomes Differently for College Graduates with Diverse Characteristics (oral), 葡萄牙特尔塞拉. （交流学习）. 
-- *2023.10*, 第十五届中日韩地理学联合年会, Impact of Clan Culture on the Spatial Heterogeneity of Betrothal Gifts in China (oral), 韩国首尔. （交流学习）. 
-- *2019.08*, Goldschmidt2019, 西班牙巴塞罗那. （学习×2）. 
-- *2018.09*, 第八届亚洲区域科学会议, 韩国济州. （主要是学习） 
 
 # 📖 教育经历 {#education} 
-- *2014.09 - 2017.12*, 武汉大学遥感信息工程学院, 地图制图学与地理信息工程专业. 
-- *2010.09 - 2013.06*, 中南大学地球科学与信息物理学院, 测绘工程专业. 
-- *2006.09 - 2010.06*, 中南大学地学与环境工程学院, 地理信息系统专业. 
+- 2014.9-2017.6 武汉大学 资源与环境科学学院 地图制图学与地理信息工程 博士 (导师：艾廷华教授)
+- 2012.9-2014.6 武汉大学 资源与环境科学学院 测绘工程 硕士 (导师：艾廷华教授)
+- 2008.9-2012.6 武汉大学 资源与环境科学学院 地理信息系统 学士
 
-<script defer src="https://cn.vercount.one/js"></script>
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?b6170bbfcc07f16ceee0aaac69f3c970";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
+
+
 
 {% include text-expand.html %}
