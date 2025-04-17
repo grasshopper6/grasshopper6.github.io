@@ -117,7 +117,7 @@ carousels:
 - He, Z., Gu, Y., ... **Zhou, M.**\*.(2025).Analyzing the Joint Influence of Urban Facilities and Street Perception Characteristics on Street Robbery. *Journal of Geovisualization and Spatial Analysis*,9(1), article number 23.
 -  **Zhou, M.**\*, Yang M., Ai, T., et al. (2024). Rethinking the null hypothesis in significant colocation pattern mining of spatial flows. *Journal of Geographical Systems*, 26:375-405.
 - Fu, Q.,  **Zhou, M.**\*, Li, Y., et al. (2024). Flow Spatiotemporal Moran’I: Measuring Spatiaotemporal Autocorrelation of Flow Data. *Geographical Analysis*.
-- **周梦杰**, 阳孟杰*, 陈慧颖, 等. (2024). 面向地理流的时空交叉K函数方法. *测绘学报*, 53(8): 1644-1655.
+- **周梦杰**\*, 阳孟杰\*, 陈慧颖, 等. (2024). 面向地理流的时空交叉K函数方法. *测绘学报*, 53(8): 1644-1655.
 - 王钰辉, 阳孟杰,**周梦杰**\*,等. (2024). 面向地理流的双变量时空扫描统计方法.* 测绘科学*, 49(1):204-215．
 -  **Zhou, M.**\*, Yang, M.\*, Chen, Z. (2023). Flow colocation quotient: Measuring bivariate spatial association for flow data.* Computers, Environment and Urban Systems*. 99, 101916.
 -  **Zhou, M.**, Fu, Q., Li, Y., et al. (2023). Discovering spatiotemporal flow patterns: where the origin–destination map meets empirical orthogonal function decomposition, *Cartography and Geographic Information Science*, 50(2), 113-129.
