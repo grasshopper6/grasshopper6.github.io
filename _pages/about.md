@@ -135,7 +135,7 @@ carousels:
 - Zhou, M., Wang, R., Mai, S., & Tian, J. (2016). Spatial and temporal patterns of air quality in the three economic zones of China. Journal of Maps, 12: 156-162.
 - 艾廷华, 周梦杰 & 陈亚婕. (2014). 专题地图属性信息的 LOD 表达与 TreeMap 可视化. 测绘学报, 42(3): 453-460. 	
 
-# 🔥 承担课题与项目 {#Wow}
+# 🔥 承担课题与项目 {#project}
 - 国家自然科学基金青年科学基金项目，“色彩混合原理支持下的空间同位模式可视化挖掘”，2020-2022，主持
 - 湖南省自然科学基金青年科学基金项目，“地理流的时空加权同位系数方法研究”，2023-2025，主持
 - 湖南省教育厅优秀青年项目，“面向聚合型地理流的时空Moran's I方法研究”，2024-2026，主持
