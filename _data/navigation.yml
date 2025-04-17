@@ -3,22 +3,21 @@ main:
   - title: "About"
     url: "/#about-me"
 
-    title: "Wow!"
-    url: "#Wow"
 
   - title: "研究生"
     url: "#postgraduate"
 
 
 
-  - title: "部分成果"
+  - title: "主要成果"
     url: "#publication"
-
+    
+  - title: "承担课题与项目"
+    url: "#project"
   - title: "指导获奖"
     url: "#awards"
 
-  - title: "学术交流"
-    url: "#talks"
+
 
   - title: "教育经历"
     url: "#education"
