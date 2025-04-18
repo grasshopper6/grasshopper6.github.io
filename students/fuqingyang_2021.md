@@ -4,7 +4,7 @@ excerpt: ""
 layout: student #不要修改
 permalink: /students/fuqingyang_2021/
 authoravatar: /images/fuqingyang_2021.jpg #学生主页图像位置
-bio: "符青扬，女，湖南省益阳市人。湖南师范大学地理科学学院2021级硕士研究生。现为中国地质大学（武汉）博士研究生" #学生主页简介
+bio: "符青扬，女，湖南省益阳市人。湖南师范大学地理科学学院2021级硕士研究生，现为中国地质大学（武汉）博士研究生" #学生主页简介
 ---
 
 
