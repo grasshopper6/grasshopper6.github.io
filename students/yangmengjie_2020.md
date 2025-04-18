@@ -4,7 +4,7 @@ excerpt: ""
 layout: student #不要修改
 permalink: /students/yangmengjie_2020/
 authoravatar: /images/yangmengjie_2020.jpg #学生主页图像位置
-bio: "阳孟杰，女，湖南省衡山县人。湖南师范大学地理科学学院2020级硕士研究生。" #学生主页简介
+bio: "阳孟杰，女，湖南省衡山县人。湖南师范大学地理科学学院2020级硕士研究生，现为湖南师范大学博士研究生。" #学生主页简介
 ---
 
 
