@@ -156,5 +156,15 @@ carousels:
 
 
 
+  <script defer src="https://cn.vercount.one/js"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src =  "https://hm.baidu.com/hm.js?b3cab4d5f875ea359a1d03e8abb22a5f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
 
 {% include text-expand.html %}
