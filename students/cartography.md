@@ -1,4 +1,4 @@
-![图片](https://github.com/user-attachments/assets/191eb7f5-6c50-48af-8c34-d7b1c3c663f9)---
+---
 title: "地图学" #学生主页Title
 excerpt: ""
 layout: student #不要修改
@@ -14,9 +14,8 @@ bio: "周梦杰，副教授，硕士生导师，地理信息科学系，湖南�
 # 第一章 地图与地图学的基础知识  
 - 纪录片——地图传奇
   迄今为止唯一一部关于中国地图的纪录片。[点击观看](https://tv.cctv.com/2016/05/25/VIDAEoF3WfhCxjOh2YoVHGpz160525.shtml)
-- 开讲啦——地图背后的故事[点击观看](https://tv.cctv.cn/2023/11/25/VIDENW7koPGcFm0hCBT2B3nX231125.shtml)
-- 📝作业
-  观看任一集《地图传奇》纪录片，写观后感。鼓励原创！[作业上传](https://pan.hunnu.edu.cn/u/d/0a54472776494791a734/)
+- 开讲啦——地图背后的故事。[点击观看](https://tv.cctv.cn/2023/11/25/VIDENW7koPGcFm0hCBT2B3nX231125.shtml)
+- 📝作业。观看任一集《地图传奇》纪录片，写观后感。鼓励原创！[作业上传](https://pan.hunnu.edu.cn/u/d/0a54472776494791a734/)
 
 
 # 第二章 地图的数学基础
