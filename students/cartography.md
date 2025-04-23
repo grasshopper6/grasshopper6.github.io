@@ -1,4 +1,4 @@
-![图片](https://github.com/user-attachments/assets/9704ef37-a912-40a9-bdb8-05876920e697)---
+---
 title: "地图学" #学生主页Title
 excerpt: ""
 layout: student #不要修改
