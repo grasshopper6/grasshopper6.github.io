@@ -65,7 +65,7 @@ bio: "周梦杰，副教授，硕士生导师，地理信息科学系，湖南�
 # 第六章 专题地图
 - 图集资源网站<br>
 [中国专题地图集资源网](http://www.zhuantitu.com/#/atlasIndex)<br>
-- 相关论文<br>
+- 相关论文
 1. [Weng, M., Song, X., Wang, L., Xie, H., Zhang, P., Su, S., & Kang, M. (2020). A tourist map of Xi’an: combining historical city characteristics with art. Journal of Maps, 16(1), 195–202. https://doi.org/10.1080/17445647.2020.1837269](https://www.tandfonline.com/doi/full/10.1080/17445647.2020.1837269#abstract)
 2. [苏世亮，孙晴萱，张江玥，等. 地方特色饮食文化创意地图设计．测绘科学,2022,47(6):181-187,212.](https://pan.hunnu.edu.cn/f/203b088674bb406688b4/)
 
