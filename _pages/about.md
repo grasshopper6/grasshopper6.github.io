@@ -117,7 +117,7 @@ carousels:
 - 符青扬, **周梦杰**\*, 李伊戈, 陈伟涛(2025). [面向聚合型地理流的双变量时空关联分析方法.](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2025.20240011) *测绘学报*, 54(3): 552-562.
 - He, Z., Gu, Y., ... **Zhou, M.**\*.(2025).[Analyzing the Joint Influence of Urban Facilities and Street Perception Characteristics on Street Robbery.](https://link.springer.com/article/10.1007/s41651-025-00222-7) *Journal of Geovisualization and Spatial Analysis*,9(1), article number 23.
 -  **Zhou, M.**\*, Yang M., Ai, T., et al. (2024). [Rethinking the null hypothesis in significant colocation pattern mining of spatial flows.](https://link.springer.com/article/10.1007/s10109-024-00439-y) *Journal of Geographical Systems*, 26:375-405.
-- Fu, Q.,  **Zhou, M.**\*, Li, Y., et al. (2024). [Flow Spatiotemporal Moran’I: Measuring Spatiaotemporal Autocorrelation of Flow Data.](https://onlinelibrary.wiley.com/doi/10.1111/gean.12397) *Geographical Analysis*.
+- Fu, Q.,  **Zhou, M.**\*, Li, Y., et al. (2024). [Flow Spatiotemporal Moran’I: Measuring Spatiaotemporal Autocorrelation of Flow Data.](https://onlinelibrary.wiley.com/doi/10.1111/gean.12397) *Geographical Analysis*,56(4): 799-824.
 - **周梦杰**\*, 阳孟杰\*, 陈慧颖, 等. (2024). [面向地理流的时空交叉K函数方法.](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2024.20230258) *测绘学报*, 53(8): 1644-1655.
 - 王钰辉, 阳孟杰,**周梦杰**\*,等. (2024). [面向地理流的双变量时空扫描统计方法.](https://chkd.cbpt.cnki.net/WKE2/WebPublication/paperDigest.aspx?paperID=5a4312a8-9de5-416d-be42-233400fe41b2)*测绘科学*, 49(1):204-215．
 -  **Zhou, M.**\*, Yang, M.\*, Chen, Z. (2023). [Flow colocation quotient: Measuring bivariate spatial association for flow data.](https://www.sciencedirect.com/science/article/pii/S0198971522001600?via%3Dihub) *Computers, Environment and Urban Systems*, 99, 101916.
