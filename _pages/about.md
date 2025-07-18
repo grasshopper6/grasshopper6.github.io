@@ -112,13 +112,13 @@ carousels:
 
 # 📝 主要成果 {#publication} 
 
-- Zhou, M., Chen, H., Bian, J. et al.(2025).[The Rise and Evolution of Emerging Tourist Cities after Sudden Fame on Social Media: A Case Study of Zibo.](https://link.springer.com/article/10.1007/s12061-025-09668-0) Applied Spatial Analysis and Policy. 2025,18, article number 63.
+- **Zhou, M.**, Chen, H., Bian, J. et al.(2025).[The Rise and Evolution of Emerging Tourist Cities after Sudden Fame on Social Media: A Case Study of Zibo.](https://link.springer.com/article/10.1007/s12061-025-09668-0) Applied Spatial Analysis and Policy. 2025,18, article number 63.
 - Yang, M., **Zhou, M.**\*, He, X.\*, et al. (2025). [Incremental spatiotemporal flow colocation quotient: a new spatiotemporal association analysis method for geographical flows.](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2445180) *International Journal of Geographical Information Science*.[数据源码](https://doi.org/10.6084/m9.figshare.23998710)
 - 符青扬, **周梦杰**\*, 李伊戈, 陈伟涛(2025). [面向聚合型地理流的双变量时空关联分析方法.](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2025.20240011) *测绘学报*, 54(3): 552-562.
 - He, Z., Gu, Y., ... **Zhou, M.**\*.(2025).[Analyzing the Joint Influence of Urban Facilities and Street Perception Characteristics on Street Robbery.](https://link.springer.com/article/10.1007/s41651-025-00222-7) *Journal of Geovisualization and Spatial Analysis*,9(1), article number 23.
 -  **Zhou, M.**\*, Yang M., Ai, T., et al. (2024). [Rethinking the null hypothesis in significant colocation pattern mining of spatial flows.](https://link.springer.com/article/10.1007/s10109-024-00439-y) *Journal of Geographical Systems*, 26:375-405.
 - Fu, Q.,  **Zhou, M.**\*, Li, Y., et al. (2024). [Flow Spatiotemporal Moran’I: Measuring Spatiaotemporal Autocorrelation of Flow Data.](https://onlinelibrary.wiley.com/doi/10.1111/gean.12397) *Geographical Analysis*,56(4): 799-824.
-- **周梦杰**\*, 阳孟杰\*, 陈慧颖, 等. (2024). [面向地理流的时空交叉K函数方法.](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2024.20230258) *测绘学报*, 53(8): 1644-1655.
+- **周梦杰**, 阳孟杰\*, 陈慧颖, 等. (2024). [面向地理流的时空交叉K函数方法.](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2024.20230258) *测绘学报*, 53(8): 1644-1655.
 - 王钰辉, 阳孟杰,**周梦杰**\*,等. (2024). [面向地理流的双变量时空扫描统计方法.](https://chkd.cbpt.cnki.net/WKE2/WebPublication/paperDigest.aspx?paperID=5a4312a8-9de5-416d-be42-233400fe41b2)*测绘科学*, 49(1):204-215．
 -  **Zhou, M.**\*, Yang, M.\*, Chen, Z. (2023). [Flow colocation quotient: Measuring bivariate spatial association for flow data.](https://www.sciencedirect.com/science/article/pii/S0198971522001600?via%3Dihub) *Computers, Environment and Urban Systems*, 99, 101916.
 -  **Zhou, M.**, Fu, Q., Li, Y., et al. (2023). [Discovering spatiotemporal flow patterns: where the origin–destination map meets empirical orthogonal function decomposition.](https://www.tandfonline.com/doi/full/10.1080/15230406.2023.2171490) *Cartography and Geographic Information Science*, 50(2), 113-129.
