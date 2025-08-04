@@ -90,7 +90,7 @@ carousels:
 
 - [**地图学（本科生课程）**](/students/cartography/)
 - MATLAB和R应用与开发（本科生课程）
-- 地图设计与制作（本科生课程）
+- [**地图设计与制作（本科生实习课程）**](http://xhslink.com/m/4XYYHvUEicC )
 - 地图表达与地图分析（硕士研究生课程）
 - 地图学与GIS研究新进展（博士研究生课程）
 
