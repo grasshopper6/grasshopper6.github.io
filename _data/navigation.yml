@@ -9,18 +9,18 @@ main:
 
 
 
+  - title: "教育经历"
+    url: "#education"
+
+
   - title: "主要成果"
     url: "#publication"
     
   - title: "承担课题与项目"
     url: "#project"
-  - title: "指导获奖"
+  - title: "获奖"
     url: "#awards"
 
-
-
-  - title: "教育经历"
-    url: "#education"
 
 
 
