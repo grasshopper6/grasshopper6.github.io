@@ -116,7 +116,7 @@ carousels:
 
 # 📝 主要成果 {#publication} 
 
-- Wang, Y., **Zhou, M.**\*, Yu, W., Wan, Y., & Chen, H. (2025). [A spatial–temporal graph convolutional network enhanced by geospatial knowledge to forecast origin–destination flows.](https://www.tandfonline.com/doi/full/10.1080/13658816.2025.2591250)  *International Journal of Geographical Information Science*, 1–31.
+- Wang, Y., **Zhou, M.**\*, Yu, W., Wan, Y., & Chen, H. (2026). [A spatial–temporal graph convolutional network enhanced by geospatial knowledge to forecast origin–destination flows.](https://www.tandfonline.com/doi/full/10.1080/13658816.2025.2591250)  *International Journal of Geographical Information Science*, 40(7), 2216–2246.
 -  **Zhou, M.**, Chen, H., Bian, J. et al.(2025).[The Rise and Evolution of Emerging Tourist Cities after Sudden Fame on Social Media: A Case Study of Zibo.](https://link.springer.com/article/10.1007/s12061-025-09668-0) Applied Spatial Analysis and Policy. 2025,18, article number 63.
 - Yang, M., **Zhou, M.**\*, He, X.\*, et al. (2025). [Incremental spatiotemporal flow colocation quotient: a new spatiotemporal association analysis method for geographical flows.](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2445180) *International Journal of Geographical Information Science*. 39(6):1296-1319.[数据源码](https://doi.org/10.6084/m9.figshare.23998710)
 - 符青扬, **周梦杰**\*, 李伊戈, 陈伟涛(2025). [面向聚合型地理流的双变量时空关联分析方法.](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2025.20240011) *测绘学报*, 54(3): 552-562.
@@ -156,7 +156,7 @@ carousels:
 - 中国地理学会地图学与地理信息系统专业委员会2024年学术年会 青年优秀报告
 - 国家测绘地理信息局测绘科技进步二等奖
 - 国家奖学金、研究生国家奖学金
-- **指导学生**
+ **指导学生**
 - 程雪萍等，《中国2010年人口系列地图》“SuperMap杯第十六届全国高校GIS大赛”制图组,一等奖.
 - 于沁玥等 “共享单车骑行模式的时空特征分析”大学生创新训练项目（省级）, 已结题.
 - 王钰辉，研究生国家奖学金.
